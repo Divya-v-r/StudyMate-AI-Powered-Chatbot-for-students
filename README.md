@@ -16,5 +16,7 @@ This is a multimodal chatbot built with Google's Gemini API and Gradio.
    ```
 5. Run the chatbot:
    ```bash
-   python main.py
+   python main3.py    #For requirements installation
+   python main4.py    #To run the main program
+   
    ```
