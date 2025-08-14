@@ -3,6 +3,7 @@
 This is a multimodal chatbot built with Google's Gemini API and Gradio.
 
 This includes:
+
 ✅ Text Generation – Generate creative or factual text with adjustable temperature.
 
 ✅ Multilingual Translation – Translate text across 10+ languages (Spanish, French, Japanese, etc.).
