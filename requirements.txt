@@ -1,0 +1,6 @@
+gradio
+google-generativeai
+pillow
+requests
+PyPDF2
+python-dotenv
