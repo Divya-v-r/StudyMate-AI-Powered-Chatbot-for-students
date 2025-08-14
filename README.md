@@ -1,12 +1,18 @@
 # StudyMate-AI-Powered-Chatbot-for-students
 
 This is a multimodal chatbot built with Google's Gemini API and Gradio.
+
 This includes:
 ✅ Text Generation – Generate creative or factual text with adjustable temperature.
+
 ✅ Multilingual Translation – Translate text across 10+ languages (Spanish, French, Japanese, etc.).
+
 ✅ Image Analysis – Upload images and get detailed descriptions or answers to questions.
+
 ✅ Conversational Chat – Engage in dynamic, context-aware conversations with chat history.
+
 ✅ PDF Q&A – Extract text from PDFs and ask questions about the content.
+
 ✅ API Key Management – Securely configure Gemini API key via .env or UI input.
 
 
